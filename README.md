@@ -79,7 +79,7 @@ The neural network is implemented in PyTorch with the following structure:
 
 ---
 
-**Visualizations**
+## Visualizations
 
 All relevant plots, including feature histograms, correlation matrices, outlier checks, and loss curves, are included in the repository for detailed inspection.
 
