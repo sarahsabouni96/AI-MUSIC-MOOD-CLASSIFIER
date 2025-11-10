@@ -20,9 +20,13 @@ The dataset consists of numerical audio features extracted from songs. Key featu
 - valence  
 - tempo  
 - duration_min *(converted from milliseconds)*  
+---
+**Dataset Source**
+
+The dataset used in this project is from Kaggle: [Moodify Dataset](https://www.kaggle.com/datasets/abdullahorzan/moodify-dataset?resource=download). and contains numerical audio features extracted from songs.
+
 
 The target variable is the song mood, represented as integer labels.
-
 ---
 
 ## Target Labels
@@ -71,6 +75,12 @@ The neural network is implemented in PyTorch with the following structure:
 - **Test Accuracy:** ~80%  
 - **Loss curves:** Training and test loss monitored across epochs  
 - **Confusion Matrix:** Displays classification performance per class  
+
+---
+
+**Visualizations**
+
+All relevant plots, including feature histograms, correlation matrices, outlier checks, and loss curves, are included in the repository for detailed inspection.
 
 ---
 
