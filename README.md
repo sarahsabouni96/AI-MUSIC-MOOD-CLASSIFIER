@@ -19,17 +19,18 @@ The dataset consists of numerical audio features extracted from songs. Key featu
 - liveness  
 - valence  
 - tempo  
-- duration_min *(converted from milliseconds)*  
+- duration_min *(converted from milliseconds)*
+    
 ---
+
 **Dataset Source**
 
 The dataset used in this project is from Kaggle: [Moodify Dataset](https://www.kaggle.com/datasets/abdullahorzan/moodify-dataset?resource=download). and contains numerical audio features extracted from songs.
 
-
-The target variable is the song mood, represented as integer labels.
-
+---
 
 ## Target Labels
+The target variable is the song mood, represented as integer labels.
 
 | Label | Mood      |
 |-------|-----------|
