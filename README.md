@@ -27,7 +27,7 @@ The dataset used in this project is from Kaggle: [Moodify Dataset](https://www.k
 
 
 The target variable is the song mood, represented as integer labels.
----
+
 
 ## Target Labels
 
